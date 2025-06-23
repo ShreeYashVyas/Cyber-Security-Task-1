@@ -8,7 +8,7 @@ To perform a TCP SYN scan using Nmap on the local network to identify active hos
 
 ## 🛠️ Tools Used:
 - **Nmap** (Version 7.97)
-- **Operating System**: [mention your OS, e.g., Windows 10, Kali Linux, Ubuntu]
+- **Operating System**: [Kali Linux in VMware]
 - (Optional: Wireshark) 
 
 ---
